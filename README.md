@@ -26,16 +26,17 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 
 #### Frameworks & Library:
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![TAILWIND](https://img.shields.io/badge/-Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![NEXT](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 
 #### Utilities:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-white?style=flat&logo=npm&logoColor=CB3837)
 
 #### UX/UI:
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
