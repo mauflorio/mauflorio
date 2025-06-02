@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @mauflorio a pasionate frontend developer!
-- 👀 I’m interested in Javascript and React
-- 🌱 I’m currently learning Node.js
-- 📫 Take a look to my  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-florio-aguilar)](https://www.linkedin.com/in/mauro-florio-aguilar) and feel free to add me!
+# 👋 Hi, I’m Mauro Florio a pasionate frontend developer!
+- 👀 I’m huge fan of Javascript and React.
+- 🌱 I’m currently learning Node.js.
+- 📫 Take a look to my  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-florio-aguilar)](https://www.linkedin.com/in/mauro-florio) and feel free to add me!
+- 🌎 I'm from Argentina 🇦🇷, currently in the UTC−03:00 Time Zone.
+- 😀 When I'm not crushing bugs, I can be found playing tennis 🎾, playing soccer ⚽, videogames 🎮, lifting weights 🏋️, and spending time with my Friends & Family ❤️.
 
 <br><br>
 
