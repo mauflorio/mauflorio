@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Mauro Florio a pasionate frontend developer!
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=30&lines=Hey%2C+I'm+Mauro+a+pasionate+frontend+developer!" align="middle" alt="👋 Hi, I’m Mauro a pasionate frontend developer! animated typed out">
+<img  src="/borderseperator.gif">
+
+
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mauro-florio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mau.florio@gmail.com)
