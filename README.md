@@ -1,24 +1,19 @@
 # 👋 Hi, I’m Mauro Florio a pasionate frontend developer!
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mauro-florio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mau.florio@gmail.com)
+[![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RQaGYq9c)
+[![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mauu5?si=5032ca18136745c2)
+
+## About me
 - 👀 I’m huge fan of Javascript and React.
 - 🌱 I’m currently learning Node.js.
-- 📫 Take a look to my  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-florio-aguilar)](https://www.linkedin.com/in/mauro-florio) and feel free to add me!
 - 🌎 I'm from Argentina 🇦🇷, currently in the UTC−03:00 Time Zone.
 - 😀 When I'm not crushing bugs, I can be found playing tennis 🎾, playing soccer ⚽, videogames 🎮, lifting weights 🏋️, and spending time with my Friends & Family ❤️.
 
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mauflorio&theme=highcontrast)](https://git.io/streak-stats)
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mauflorio?cardType=level&theme=vision-friendly-dark)](https://git.io/awesome-stats-card)
-
 <!--![mauflorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobima&theme=darcula&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauflorio&layout=compact)](https://github.com/mauflorio/github-readme-stats)
-
-
-
-
-### My Stack
+## My Stack
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -36,7 +31,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-white?style=flat&logo=npm&logoColor=CB3837)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
 #### UX/UI:
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -44,7 +39,11 @@
 ![Webflow](https://img.shields.io/badge/-Webflow-146EF5?style=flat&logo=webflow&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=Canva&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauflorio&layout=compact)](https://github.com/mauflorio/github-readme-stats)
 
+## 💸 How to support me
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/36tWTcdkAR5EhKNrWEwjJydqpggNrW3zrM)
 
 <!---
 Mauflorio/Mauflorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
