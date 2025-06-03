@@ -10,7 +10,7 @@
 
 ## About me
 - 👀 I’m huge fan of Javascript and React.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I'm working, freelancing, and going to college right now.
 - 🌎 I'm from Argentina <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" width="20" height="15">, currently in the UTC−03:00 Time Zone.
 - 😀 When I'm not crushing bugs, I can be found playing tennis 🎾, playing soccer ⚽, videogames 🎮, lifting weights 🏋️, and spending time with my Friends & Family ❤️.
 
