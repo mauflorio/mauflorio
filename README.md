@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=30&lines=Hi%2C+I'm+Mauro+a+passionate+frontend+developer!" align="middle" alt="Hi, I’m Mauro a pasionate frontend developer! animated typed out">
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=27&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Mauro%2C+a+passionate+frontend+developer!" 
+alt="👋 Hi, I’m Mauro, a passionate frontend developer!"/>
+</div>
 <img  src="/borderseperator.gif">
 
 
