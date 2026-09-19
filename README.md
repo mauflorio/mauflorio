@@ -45,8 +45,6 @@ alt="👋 Hi, I’m Mauro, a passionate frontend developer!"/>
 ![Webflow](https://img.shields.io/badge/-Webflow-146EF5?style=flat&logo=webflow&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=Canva&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauflorio&layout=compact)](https://github.com/mauflorio/github-readme-stats)
-
 ## 💸 How to support me
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/36tWTcdkAR5EhKNrWEwjJydqpggNrW3zrM)
